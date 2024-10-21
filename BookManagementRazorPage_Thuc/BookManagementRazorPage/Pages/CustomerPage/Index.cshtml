@@ -1,0 +1,42 @@
+﻿@page
+@model BookManagementRazorPage.Pages.CustomerPage.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>WELCOME TO MY LIBRARY</h1>
+
+<p>
+    <a asp-page="/HistoryBorrowBookPage/Index" class="btn btn-info">Xem Lịch Sử Mượn Sách</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Book[0].Title)</th>
+            <th>@Html.DisplayNameFor(model => model.Book[0].Author)</th>
+            <th>@Html.DisplayNameFor(model => model.Book[0].Publisher)</th>
+            <th>@Html.DisplayNameFor(model => model.Book[0].YearPublished)</th>
+            <th>@Html.DisplayNameFor(model => model.Book[0].Quantity)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Book)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Title)</td>
+                <td>@Html.DisplayFor(modelItem => item.Author)</td>
+                <td>@Html.DisplayFor(modelItem => item.Publisher)</td>
+                <td>@Html.DisplayFor(modelItem => item.YearPublished)</td>
+                <td>@Html.DisplayFor(modelItem => item.Quantity)</td>
+                <td>
+                    <form method="post" asp-page-handler="Borrow" asp-route-id="@item.BookId" style="display:inline;">
+                        <button type="submit" class="btn btn-primary">Mượn sách</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

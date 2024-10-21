@@ -1,0 +1,135 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BookManagementRazorPage
+build_property.RootNamespace = BookManagementRazorPage
+build_property.ProjectDir = C:\Users\THY\source\repos\RazorPage\PRN221_RazorPage\BookManagementRazorPage_Thuc\BookManagementRazorPage\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\THY\source\repos\RazorPage\PRN221_RazorPage\BookManagementRazorPage_Thuc\BookManagementRazorPage
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/THY/source/repos/RazorPage/PRN221_RazorPage/BookManagementRazorPage_Thuc/BookManagementRazorPage/Pages/AccountPage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFBhZ2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THY/source/repos/RazorPage/PRN221_RazorPage/BookManagementRazorPage_Thuc/BookManagementRazorPage/Pages/AccountPage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFBhZ2VcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THY/source/repos/RazorPage/PRN221_RazorPage/BookManagementRazorPage_Thuc/BookManagementRazorPage/Pages/AccountPage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFBhZ2VcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THY/source/repos/RazorPage/PRN221_RazorPage/BookManagementRazorPage_Thuc/BookManagementRazorPage/Pages/AccountPage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFBhZ2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THY/source/repos/RazorPage/PRN221_RazorPage/BookManagementRazorPage_Thuc/BookManagementRazorPage/Pages/AccountPage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFBhZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THY/source/repos/RazorPage/PRN221_RazorPage/BookManagementRazorPage_Thuc/BookManagementRazorPage/Pages/BookPage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va1BhZ2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THY/source/repos/RazorPage/PRN221_RazorPage/BookManagementRazorPage_Thuc/BookManagementRazorPage/Pages/BookPage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va1BhZ2VcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THY/source/repos/RazorPage/PRN221_RazorPage/BookManagementRazorPage_Thuc/BookManagementRazorPage/Pages/BookPage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va1BhZ2VcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THY/source/repos/RazorPage/PRN221_RazorPage/BookManagementRazorPage_Thuc/BookManagementRazorPage/Pages/BookPage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va1BhZ2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THY/source/repos/RazorPage/PRN221_RazorPage/BookManagementRazorPage_Thuc/BookManagementRazorPage/Pages/BookPage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va1BhZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THY/source/repos/RazorPage/PRN221_RazorPage/BookManagementRazorPage_Thuc/BookManagementRazorPage/Pages/CustomerPage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJQYWdlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THY/source/repos/RazorPage/PRN221_RazorPage/BookManagementRazorPage_Thuc/BookManagementRazorPage/Pages/CustomerPage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJQYWdlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THY/source/repos/RazorPage/PRN221_RazorPage/BookManagementRazorPage_Thuc/BookManagementRazorPage/Pages/CustomerPage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJQYWdlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THY/source/repos/RazorPage/PRN221_RazorPage/BookManagementRazorPage_Thuc/BookManagementRazorPage/Pages/CustomerPage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJQYWdlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THY/source/repos/RazorPage/PRN221_RazorPage/BookManagementRazorPage_Thuc/BookManagementRazorPage/Pages/CustomerPage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJQYWdlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THY/source/repos/RazorPage/PRN221_RazorPage/BookManagementRazorPage_Thuc/BookManagementRazorPage/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THY/source/repos/RazorPage/PRN221_RazorPage/BookManagementRazorPage_Thuc/BookManagementRazorPage/Pages/HistoryBorrowBookPage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGlzdG9yeUJvcnJvd0Jvb2tQYWdlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THY/source/repos/RazorPage/PRN221_RazorPage/BookManagementRazorPage_Thuc/BookManagementRazorPage/Pages/HistoryBorrowBookPage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGlzdG9yeUJvcnJvd0Jvb2tQYWdlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THY/source/repos/RazorPage/PRN221_RazorPage/BookManagementRazorPage_Thuc/BookManagementRazorPage/Pages/HistoryBorrowBookPage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGlzdG9yeUJvcnJvd0Jvb2tQYWdlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THY/source/repos/RazorPage/PRN221_RazorPage/BookManagementRazorPage_Thuc/BookManagementRazorPage/Pages/HistoryBorrowBookPage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGlzdG9yeUJvcnJvd0Jvb2tQYWdlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THY/source/repos/RazorPage/PRN221_RazorPage/BookManagementRazorPage_Thuc/BookManagementRazorPage/Pages/HistoryBorrowBookPage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGlzdG9yeUJvcnJvd0Jvb2tQYWdlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THY/source/repos/RazorPage/PRN221_RazorPage/BookManagementRazorPage_Thuc/BookManagementRazorPage/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THY/source/repos/RazorPage/PRN221_RazorPage/BookManagementRazorPage_Thuc/BookManagementRazorPage/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THY/source/repos/RazorPage/PRN221_RazorPage/BookManagementRazorPage_Thuc/BookManagementRazorPage/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THY/source/repos/RazorPage/PRN221_RazorPage/BookManagementRazorPage_Thuc/BookManagementRazorPage/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THY/source/repos/RazorPage/PRN221_RazorPage/BookManagementRazorPage_Thuc/BookManagementRazorPage/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THY/source/repos/RazorPage/PRN221_RazorPage/BookManagementRazorPage_Thuc/BookManagementRazorPage/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-485bkv30i8

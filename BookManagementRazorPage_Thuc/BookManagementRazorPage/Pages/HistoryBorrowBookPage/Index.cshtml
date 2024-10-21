@@ -1,0 +1,39 @@
+﻿@page
+@model BookManagementRazorPage.Pages.HistoryBorrowBookPage.IndexModel
+
+@{
+    ViewData["Title"] = "Lịch sử mượn sách";
+}
+
+<h1>Lịch sử mượn sách</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Tên sách</th>
+            <th>Tác giả</th>
+            <th>Ngày mượn</th>
+            <th>Ngày trả</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.BorrowingHistory != null && Model.BorrowingHistory.Any())
+        {
+            foreach (var item in Model.BorrowingHistory)
+            {
+                <tr>
+                    <td>@item.Book.Title</td>
+                    <td>@item.Book.Author</td>
+                    <td>@item.BorrowDate.ToString("dd/MM/yyyy")</td>
+                    <td>@(item.ReturnDate?.ToString("dd/MM/yyyy") ?? "Chưa trả")</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="4" class="text-center">Không có lịch sử mượn sách nào.</td>
+            </tr>
+        }
+    </tbody>
+</table>
