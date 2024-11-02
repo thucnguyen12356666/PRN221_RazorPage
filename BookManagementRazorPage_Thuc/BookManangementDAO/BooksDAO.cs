@@ -55,13 +55,26 @@ namespace BookManangementDAO
         }
         public void DeleteBook(int id)
         {
+            
+            var borrowingsToDelete = _context.BorrowingHistories.Where(b => b.BookId == id).ToList();
+
+           
+            if (borrowingsToDelete.Any())
+            {
+                _context.BorrowingHistories.RemoveRange(borrowingsToDelete);
+            }
+
+            
             var bookToDelete = _context.Books.SingleOrDefault(b => b.BookId == id);
             if (bookToDelete != null)
             {
                 _context.Books.Remove(bookToDelete);
-                _context.SaveChanges();
             }
+
+            // Lưu thay đổi vào cơ sở dữ liệu
+            _context.SaveChanges();
         }
+
         public List<Book> GetAvailableBooksForAccount(int accountId)
         {
             var borrowedBookIds = _context.BorrowingHistories.Include(b => b.Book)

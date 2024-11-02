@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookManangementDAO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f9f34d2546fb50d79c226a59e069097af2a3c36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa0b76435aca4e37c4de19e299512f86b026aefc")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookManangementDAO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookManangementDAO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

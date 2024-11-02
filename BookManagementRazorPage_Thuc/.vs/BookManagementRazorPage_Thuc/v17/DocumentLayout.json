@@ -3,20 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanagementrazorpage\\pages\\bookpage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|solutionrelative:bookmanagementrazorpage\\pages\\bookpage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanagementrazorpage\\pages\\bookpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|solutionrelative:bookmanagementrazorpage\\pages\\bookpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanagementrazorpage\\pages\\bookpage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|solutionrelative:bookmanagementrazorpage\\pages\\bookpage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanagementrazorpage\\pages\\bookpage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|solutionrelative:bookmanagementrazorpage\\pages\\bookpage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanagementrazorpage\\pages\\bookpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|solutionrelative:bookmanagementrazorpage\\pages\\bookpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6C54A9-A931-4AF9-927A-B982A2FEBC31}|BookManangementDAO\\BookManangementDAO.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanangementdao\\booksdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6C54A9-A931-4AF9-927A-B982A2FEBC31}|BookManangementDAO\\BookManangementDAO.csproj|solutionrelative:bookmanangementdao\\booksdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanagementrazorpage\\pages\\bookpage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|solutionrelative:bookmanagementrazorpage\\pages\\bookpage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanagementrazorpage\\pages\\bookpage\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|solutionrelative:bookmanagementrazorpage\\pages\\bookpage\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanagementrazorpage\\pages\\bookpage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|solutionrelative:bookmanagementrazorpage\\pages\\bookpage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52894FB6-9E48-4539-8210-DF02A16CBC1F}|BookManangementRespo\\BookManangementRespo.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanangementrespo\\booksrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52894FB6-9E48-4539-8210-DF02A16CBC1F}|BookManangementRespo\\BookManangementRespo.csproj|solutionrelative:bookmanangementrespo\\booksrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52894FB6-9E48-4539-8210-DF02A16CBC1F}|BookManangementRespo\\BookManangementRespo.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanangementrespo\\ibooksrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52894FB6-9E48-4539-8210-DF02A16CBC1F}|BookManangementRespo\\BookManangementRespo.csproj|solutionrelative:bookmanangementrespo\\ibooksrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanagementrazorpage\\pages\\bookpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|solutionrelative:bookmanagementrazorpage\\pages\\bookpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanagementrazorpage\\pages\\bookpage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|solutionrelative:bookmanagementrazorpage\\pages\\bookpage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6AF711-8719-4D0C-B0A6-B6179E0570D5}|BookManangementBO\\BookManangementBO.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanangementbo\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6AF711-8719-4D0C-B0A6-B6179E0570D5}|BookManangementBO\\BookManangementBO.csproj|solutionrelative:bookmanangementbo\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6AF711-8719-4D0C-B0A6-B6179E0570D5}|BookManangementBO\\BookManangementBO.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanangementbo\\borrowinghistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6AF711-8719-4D0C-B0A6-B6179E0570D5}|BookManangementBO\\BookManangementBO.csproj|solutionrelative:bookmanangementbo\\borrowinghistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanagementrazorpage\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|solutionrelative:bookmanagementrazorpage\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanagementrazorpage\\pages\\bookpage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|solutionrelative:bookmanagementrazorpage\\pages\\bookpage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanagementrazorpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,28 +71,12 @@
       "RelativeMoniker": "D:0:0:{52894FB6-9E48-4539-8210-DF02A16CBC1F}|BookManangementRespo\\BookManangementRespo.csproj|solutionrelative:bookmanangementrespo\\iaccountrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanagementrazorpage\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|solutionrelative:bookmanagementrazorpage\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{52894FB6-9E48-4539-8210-DF02A16CBC1F}|BookManangementRespo\\BookManangementRespo.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanangementrespo\\borrowinghisrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52894FB6-9E48-4539-8210-DF02A16CBC1F}|BookManangementRespo\\BookManangementRespo.csproj|solutionrelative:bookmanangementrespo\\borrowinghisrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52894FB6-9E48-4539-8210-DF02A16CBC1F}|BookManangementRespo\\BookManangementRespo.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanangementrespo\\ibooksrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52894FB6-9E48-4539-8210-DF02A16CBC1F}|BookManangementRespo\\BookManangementRespo.csproj|solutionrelative:bookmanangementrespo\\ibooksrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5A6C54A9-A931-4AF9-927A-B982A2FEBC31}|BookManangementDAO\\BookManangementDAO.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanangementdao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A6C54A9-A931-4AF9-927A-B982A2FEBC31}|BookManangementDAO\\BookManangementDAO.csproj|solutionrelative:bookmanangementdao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A6C54A9-A931-4AF9-927A-B982A2FEBC31}|BookManangementDAO\\BookManangementDAO.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanangementdao\\booksdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A6C54A9-A931-4AF9-927A-B982A2FEBC31}|BookManangementDAO\\BookManangementDAO.csproj|solutionrelative:bookmanangementdao\\booksdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF6AF711-8719-4D0C-B0A6-B6179E0570D5}|BookManangementBO\\BookManangementBO.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanangementbo\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF6AF711-8719-4D0C-B0A6-B6179E0570D5}|BookManangementBO\\BookManangementBO.csproj|solutionrelative:bookmanangementbo\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF6AF711-8719-4D0C-B0A6-B6179E0570D5}|BookManangementBO\\BookManangementBO.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanangementbo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -79,10 +103,6 @@
       "RelativeMoniker": "D:0:0:{52894FB6-9E48-4539-8210-DF02A16CBC1F}|BookManangementRespo\\BookManangementRespo.csproj|solutionrelative:bookmanangementrespo\\iborrowinghisrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF6AF711-8719-4D0C-B0A6-B6179E0570D5}|BookManangementBO\\BookManangementBO.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanangementbo\\borrowinghistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF6AF711-8719-4D0C-B0A6-B6179E0570D5}|BookManangementBO\\BookManangementBO.csproj|solutionrelative:bookmanangementbo\\borrowinghistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5A6C54A9-A931-4AF9-927A-B982A2FEBC31}|BookManangementDAO\\BookManangementDAO.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanangementdao\\borrowinghistorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A6C54A9-A931-4AF9-927A-B982A2FEBC31}|BookManangementDAO\\BookManangementDAO.csproj|solutionrelative:bookmanangementdao\\borrowinghistorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -93,14 +113,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanagementrazorpage\\pages\\accountpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|solutionrelative:bookmanagementrazorpage\\pages\\accountpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanagementrazorpage\\pages\\bookpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|solutionrelative:bookmanagementrazorpage\\pages\\bookpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanagementrazorpage\\pages\\bookpage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|solutionrelative:bookmanagementrazorpage\\pages\\bookpage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanagementrazorpage\\pages\\historyborrowbookpage\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -137,10 +149,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanagementrazorpage\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|solutionrelative:bookmanagementrazorpage\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52894FB6-9E48-4539-8210-DF02A16CBC1F}|BookManangementRespo\\BookManangementRespo.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanangementrespo\\booksrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52894FB6-9E48-4539-8210-DF02A16CBC1F}|BookManangementRespo\\BookManangementRespo.csproj|solutionrelative:bookmanangementrespo\\booksrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanagementrazorpage\\pages\\customerpage\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -227,16 +235,8 @@
       "RelativeMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|solutionrelative:bookmanagementrazorpage\\pages\\bookpage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanagementrazorpage\\pages\\bookpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|solutionrelative:bookmanagementrazorpage\\pages\\bookpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanagementrazorpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|solutionrelative:bookmanagementrazorpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|c:\\users\\thy\\source\\repos\\razorpage\\prn221_razorpage\\bookmanagementrazorpage_thuc\\bookmanagementrazorpage\\pages\\bookpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{263B039B-62E9-4D8B-910D-BC10E614A6E4}|BookManagementRazorPage\\BookManagementRazorPage.csproj|solutionrelative:bookmanagementrazorpage\\pages\\bookpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -246,7 +246,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -262,46 +262,148 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LibraryContext.cs",
-              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementBO\\LibraryContext.cs",
-              "RelativeDocumentMoniker": "BookManangementBO\\LibraryContext.cs",
-              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementBO\\LibraryContext.cs",
-              "RelativeToolTip": "BookManangementBO\\LibraryContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\BookPage\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Create.cshtml.cs",
+              "RelativeToolTip": "BookManagementRazorPage\\Pages\\BookPage\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T14:34:00.439Z",
+              "WhenOpened": "2024-10-15T15:07:17.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\BookPage\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Delete.cshtml.cs",
+              "RelativeToolTip": "BookManagementRazorPage\\Pages\\BookPage\\Delete.cshtml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:07:18.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\BookPage\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Edit.cshtml.cs",
+              "RelativeToolTip": "BookManagementRazorPage\\Pages\\BookPage\\Edit.cshtml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:07:17.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\BookPage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Index.cshtml",
+              "RelativeToolTip": "BookManagementRazorPage\\Pages\\BookPage\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T15:07:18.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\BookPage\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Index.cshtml.cs",
+              "RelativeToolTip": "BookManagementRazorPage\\Pages\\BookPage\\Index.cshtml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwvygAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:07:18.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BooksDAO.cs",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementDAO\\BooksDAO.cs",
               "RelativeDocumentMoniker": "BookManangementDAO\\BooksDAO.cs",
               "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementDAO\\BooksDAO.cs",
               "RelativeToolTip": "BookManangementDAO\\BooksDAO.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAgwEAAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwDEAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T14:32:28.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AccountDAO.cs",
-              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementDAO\\AccountDAO.cs",
-              "RelativeDocumentMoniker": "BookManangementDAO\\AccountDAO.cs",
-              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementDAO\\AccountDAO.cs",
-              "RelativeToolTip": "BookManangementDAO\\AccountDAO.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAA9wC0AAAAZAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "BorrowingHistory.cs",
+              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementBO\\BorrowingHistory.cs",
+              "RelativeDocumentMoniker": "BookManangementBO\\BorrowingHistory.cs",
+              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementBO\\BorrowingHistory.cs",
+              "RelativeToolTip": "BookManangementBO\\BorrowingHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T14:32:34.432Z",
+              "WhenOpened": "2024-10-18T10:11:28.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementBO\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "BookManangementBO\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementBO\\LibraryContext.cs",
+              "RelativeToolTip": "BookManangementBO\\LibraryContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAewBYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:34:00.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\BookPage\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Edit.cshtml",
+              "RelativeToolTip": "BookManagementRazorPage\\Pages\\BookPage\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T15:07:17.539Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Create.cshtml",
+              "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\BookPage\\Create.cshtml",
+              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Create.cshtml",
+              "RelativeToolTip": "BookManagementRazorPage\\Pages\\BookPage\\Create.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T15:07:16.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BooksRespository.cs",
+              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementRespo\\BooksRespository.cs",
+              "RelativeDocumentMoniker": "BookManangementRespo\\BooksRespository.cs",
+              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementRespo\\BooksRespository.cs",
+              "RelativeToolTip": "BookManangementRespo\\BooksRespository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:35:45.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "IBooksRespository.cs",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementRespo\\IBooksRespository.cs",
               "RelativeDocumentMoniker": "BookManangementRespo\\IBooksRespository.cs",
@@ -314,85 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Program.cs",
-              "RelativeDocumentMoniker": "BookManagementRazorPage\\Program.cs",
-              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Program.cs",
-              "RelativeToolTip": "BookManagementRazorPage\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T14:41:41.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "BookManagementRazorPage\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA1wCoAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T14:40:41.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IAccountRespository.cs",
-              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementRespo\\IAccountRespository.cs",
-              "RelativeDocumentMoniker": "BookManangementRespo\\IAccountRespository.cs",
-              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementRespo\\IAccountRespository.cs",
-              "RelativeToolTip": "BookManangementRespo\\IAccountRespository.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBEAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T14:30:39.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AccountRespository.cs",
-              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementRespo\\AccountRespository.cs",
-              "RelativeDocumentMoniker": "BookManangementRespo\\AccountRespository.cs",
-              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementRespo\\AccountRespository.cs",
-              "RelativeToolTip": "BookManangementRespo\\AccountRespository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T14:30:21.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\BookPage\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Create.cshtml.cs",
-              "RelativeToolTip": "BookManagementRazorPage\\Pages\\BookPage\\Create.cshtml.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwCcAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T15:07:17.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\BookPage\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Delete.cshtml.cs",
-              "RelativeToolTip": "BookManagementRazorPage\\Pages\\BookPage\\Delete.cshtml.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwD4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T15:07:18.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\BookPage\\Details.cshtml.cs",
@@ -400,25 +424,71 @@
               "RelativeToolTip": "BookManagementRazorPage\\Pages\\BookPage\\Details.cshtml.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAzwB4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T15:07:17.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T15:07:17.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\BookPage\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Edit.cshtml.cs",
-              "RelativeToolTip": "BookManagementRazorPage\\Pages\\BookPage\\Edit.cshtml.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAgwEsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "AccountRespository.cs",
+              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementRespo\\AccountRespository.cs",
+              "RelativeDocumentMoniker": "BookManangementRespo\\AccountRespository.cs",
+              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementRespo\\AccountRespository.cs",
+              "RelativeToolTip": "BookManangementRespo\\AccountRespository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T15:07:17.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T14:30:21.497Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
+              "Title": "IAccountRespository.cs",
+              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementRespo\\IAccountRespository.cs",
+              "RelativeDocumentMoniker": "BookManangementRespo\\IAccountRespository.cs",
+              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementRespo\\IAccountRespository.cs",
+              "RelativeToolTip": "BookManangementRespo\\IAccountRespository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:30:39.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "BookManagementRazorPage\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:40:41.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Program.cs",
+              "RelativeDocumentMoniker": "BookManagementRazorPage\\Program.cs",
+              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Program.cs",
+              "RelativeToolTip": "BookManagementRazorPage\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:41:41.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementDAO\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "BookManangementDAO\\AccountDAO.cs",
+              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementDAO\\AccountDAO.cs",
+              "RelativeToolTip": "BookManangementDAO\\AccountDAO.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA9wC0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:32:34.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementBO\\appsettings.json",
               "RelativeDocumentMoniker": "BookManangementBO\\appsettings.json",
@@ -426,12 +496,11 @@
               "RelativeToolTip": "BookManangementBO\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-15T15:40:39.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T15:40:39.091Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "BorrowingHisRespository.cs",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementRespo\\BorrowingHisRespository.cs",
               "RelativeDocumentMoniker": "BookManangementRespo\\BorrowingHisRespository.cs",
@@ -439,12 +508,11 @@
               "RelativeToolTip": "BookManangementRespo\\BorrowingHisRespository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T14:38:18.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T14:38:18.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\CustomerPage\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\CustomerPage\\Index.cshtml.cs",
@@ -452,12 +520,11 @@
               "RelativeToolTip": "BookManagementRazorPage\\Pages\\CustomerPage\\Index.cshtml.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAkwDEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T09:22:07.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T09:22:07.215Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\HistoryBorrowBookPage\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\HistoryBorrowBookPage\\Index.cshtml.cs",
@@ -469,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "IBorrowingHisRespository.cs",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementRespo\\IBorrowingHisRespository.cs",
               "RelativeDocumentMoniker": "BookManangementRespo\\IBorrowingHisRespository.cs",
@@ -481,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "BorrowingHistoryDAO.cs",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementDAO\\BorrowingHistoryDAO.cs",
               "RelativeDocumentMoniker": "BookManangementDAO\\BorrowingHistoryDAO.cs",
@@ -493,7 +560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\HistoryBorrowBookPage\\Index.cshtml",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\HistoryBorrowBookPage\\Index.cshtml",
@@ -505,7 +572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\HistoryBorrowBookPage\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\HistoryBorrowBookPage\\Delete.cshtml.cs",
@@ -517,7 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\AccountPage\\Index.cshtml",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\AccountPage\\Index.cshtml",
@@ -529,19 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Index.cshtml",
-              "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\BookPage\\Index.cshtml",
-              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Index.cshtml",
-              "RelativeToolTip": "BookManagementRazorPage\\Pages\\BookPage\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T15:07:18.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\CustomerPage\\Index.cshtml",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\CustomerPage\\Index.cshtml",
@@ -553,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "BookManangementDAO.csproj",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementDAO\\BookManangementDAO.csproj",
               "RelativeDocumentMoniker": "BookManangementDAO\\BookManangementDAO.csproj",
@@ -565,31 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "BorrowingHistory.cs",
-              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementBO\\BorrowingHistory.cs",
-              "RelativeDocumentMoniker": "BookManangementBO\\BorrowingHistory.cs",
-              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementBO\\BorrowingHistory.cs",
-              "RelativeToolTip": "BookManangementBO\\BorrowingHistory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T10:11:28.239Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\BookPage\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Index.cshtml.cs",
-              "RelativeToolTip": "BookManagementRazorPage\\Pages\\BookPage\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T15:07:18.485Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\HistoryBorrowBookPage\\Create.cshtml",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\HistoryBorrowBookPage\\Create.cshtml",
@@ -601,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\HistoryBorrowBookPage\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\HistoryBorrowBookPage\\Create.cshtml.cs",
@@ -613,7 +644,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\HistoryBorrowBookPage\\Edit.cshtml",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\HistoryBorrowBookPage\\Edit.cshtml",
@@ -625,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\HistoryBorrowBookPage\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\HistoryBorrowBookPage\\Edit.cshtml.cs",
@@ -637,7 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\HistoryBorrowBookPage\\Details.cshtml",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\HistoryBorrowBookPage\\Details.cshtml",
@@ -649,7 +680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\HistoryBorrowBookPage\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\HistoryBorrowBookPage\\Details.cshtml.cs",
@@ -661,7 +692,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\HistoryBorrowBookPage\\Delete.cshtml",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\HistoryBorrowBookPage\\Delete.cshtml",
@@ -673,19 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "BooksRespository.cs",
-              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementRespo\\BooksRespository.cs",
-              "RelativeDocumentMoniker": "BookManangementRespo\\BooksRespository.cs",
-              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManangementRespo\\BooksRespository.cs",
-              "RelativeToolTip": "BookManangementRespo\\BooksRespository.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAEwBEAAABuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T14:35:45.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\Index.cshtml",
@@ -697,7 +716,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\CustomerPage\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\CustomerPage\\Delete.cshtml.cs",
@@ -709,7 +728,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\CustomerPage\\Delete.cshtml",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\CustomerPage\\Delete.cshtml",
@@ -721,7 +740,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\CustomerPage\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\CustomerPage\\Details.cshtml.cs",
@@ -733,7 +752,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\CustomerPage\\Details.cshtml",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\CustomerPage\\Details.cshtml",
@@ -745,7 +764,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\CustomerPage\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\CustomerPage\\Edit.cshtml.cs",
@@ -757,7 +776,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\CustomerPage\\Edit.cshtml",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\CustomerPage\\Edit.cshtml",
@@ -769,7 +788,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\CustomerPage\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\CustomerPage\\Create.cshtml.cs",
@@ -781,7 +800,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\CustomerPage\\Create.cshtml",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\CustomerPage\\Create.cshtml",
@@ -793,7 +812,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\AccountPage\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\AccountPage\\Create.cshtml.cs",
@@ -805,7 +824,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\AccountPage\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\AccountPage\\Index.cshtml.cs",
@@ -817,7 +836,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\AccountPage\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\AccountPage\\Delete.cshtml.cs",
@@ -829,7 +848,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\AccountPage\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\AccountPage\\Details.cshtml.cs",
@@ -841,7 +860,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\AccountPage\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\AccountPage\\Edit.cshtml.cs",
@@ -853,7 +872,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\AccountPage\\Create.cshtml",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\AccountPage\\Create.cshtml",
@@ -865,7 +884,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 55,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\AccountPage\\Edit.cshtml",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\AccountPage\\Edit.cshtml",
@@ -877,7 +896,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\AccountPage\\Details.cshtml",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\AccountPage\\Details.cshtml",
@@ -889,7 +908,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\AccountPage\\Delete.cshtml",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\AccountPage\\Delete.cshtml",
@@ -901,7 +920,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\Error.cshtml",
@@ -913,7 +932,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "Error.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\Error.cshtml.cs",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\Error.cshtml.cs",
@@ -925,19 +944,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Create.cshtml",
-              "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\BookPage\\Create.cshtml",
-              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Create.cshtml",
-              "RelativeToolTip": "BookManagementRazorPage\\Pages\\BookPage\\Create.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T15:07:16.513Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 57,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Delete.cshtml",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\BookPage\\Delete.cshtml",
@@ -949,7 +956,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 56,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Details.cshtml",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\BookPage\\Details.cshtml",
@@ -962,18 +969,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 58,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Edit.cshtml",
-              "RelativeDocumentMoniker": "BookManagementRazorPage\\Pages\\BookPage\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\Pages\\BookPage\\Edit.cshtml",
-              "RelativeToolTip": "BookManagementRazorPage\\Pages\\BookPage\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T15:07:17.539Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\THY\\source\\repos\\RazorPage\\PRN221_RazorPage\\BookManagementRazorPage_Thuc\\BookManagementRazorPage\\appsettings.json",
               "RelativeDocumentMoniker": "BookManagementRazorPage\\appsettings.json",
